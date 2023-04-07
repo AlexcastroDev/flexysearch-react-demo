@@ -1,0 +1,26 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@mantine/core": "6.0.6",
+    "@mantine/hooks": "6.0.6",
+    "@types/react": "18.0.33",
+    "@types/react-dom": "18.0.11",
+    "core-js": "3.30.0",
+    "flexysearch": "^1.1.0",
+    "flexysearch-react": "0.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
